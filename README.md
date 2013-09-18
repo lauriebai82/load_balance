@@ -1,8 +1,8 @@
 load_balance
 ============
 
-a simple realize of load balance by C
-server provide datetime of now to client
+a simple realize of load balance by C.
+server provide datetime of now to client.
 client get datetime from proxy, then proxy choose one server whose load is minimal to get datetime,
 then return to client
 
